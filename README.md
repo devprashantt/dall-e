@@ -61,6 +61,7 @@ To use the application, follow the steps below:
 - [Vite](https://vitejs.dev/)
 - [Cloudinary](https://cloudinary.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Rednder](https://render.com/)
 
 ## Contributing
 
